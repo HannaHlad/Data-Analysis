@@ -1,4 +1,5 @@
  **Uber project**
+ 
    Uber needs to identify the reasons for driver churn.
    I want to analyze driver churn and examine the differences between drivers who leave the service and those who stay. I aim to formulate and test hypotheses and identify groups of drivers most susceptible to churn. Based on the results, I will draw conclusions on how to improve the service.
 
